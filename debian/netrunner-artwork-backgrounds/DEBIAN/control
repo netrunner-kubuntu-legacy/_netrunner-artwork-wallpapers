@@ -1,9 +1,0 @@
-Package: netrunner-artwork-backgrounds
-Version: 1.0.5
-Architecture: all
-Maintainer: Phoenix <phoenix@netrunner-os.com>
-Installed-Size: 63175
-Section: admin
-Priority: optional
-Description: Backgrounds for Netrunner
- Backgrounds for Netrunner
