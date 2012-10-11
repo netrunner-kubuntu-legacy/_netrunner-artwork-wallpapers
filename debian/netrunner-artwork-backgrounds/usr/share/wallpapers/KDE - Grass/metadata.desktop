@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=Grass
+Name[ar]=العشب
+Name[ca]=Gespa
+Name[de]=Gras
+Name[el]=Grass
+Name[es]=Hierba
+Name[et]=Rohi
+Name[fa]=چمن
+Name[fi]=Ruoho
+Name[ga]=Grass
+Name[hu]=Fűszálak
+Name[it]=Erba
+Name[kk]=Шөп
+Name[lt]=Žolė
+Name[nds]=Gras
+Name[nl]=Gras
+Name[nn]=Gras
+Name[pl]=A-4 Trawiasta podłoga
+Name[pt]=Relva
+Name[pt_BR]=Gramado
+Name[ru]=Трава
+Name[sk]=Tráva
+Name[sl]=Trava
+Name[sr]=Трава
+Name[sr@ijekavian]=Трава
+Name[sr@ijekavianlatin]=Trava
+Name[sr@latin]=Trava
+Name[uk]=Трава
+Name[x-test]=xxGrassxx
+
+X-KDE-PluginInfo-Name=Grass
+X-KDE-PluginInfo-Author=Risto Saukonpää
+X-KDE-PluginInfo-Email=risto@saukonpaa.com
+X-KDE-PluginInfo-License=LGPLv3

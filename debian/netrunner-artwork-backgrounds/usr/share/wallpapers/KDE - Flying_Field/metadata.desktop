@@ -1,0 +1,33 @@
+[Desktop Entry]
+Name=Flying Field
+Name[ar]=الحقل الطائر
+Name[ca]=Camp volant
+Name[de]=Flying Field
+Name[el]=Flying Field
+Name[es]=Campo volador
+Name[et]=Lendav väli
+Name[fa]=میدان پرواز
+Name[fi]=Lentävä pelto
+Name[ga]=Flying Field
+Name[hu]=Repülő mező
+Name[it]=Campo di volo
+Name[kk]=Ұшқан өріс
+Name[nds]=Flegen Feld
+Name[nl]=Vliegend veld
+Name[nn]=Kornåker
+Name[pl]=Latające pole
+Name[pt]=Campo de Voo
+Name[pt_BR]=Campo de Voo
+Name[sk]=Lietajúce pole
+Name[sl]=Leteče polje
+Name[sr]=Летеће поље
+Name[sr@ijekavian]=Летеће поље
+Name[sr@ijekavianlatin]=Leteće polje
+Name[sr@latin]=Leteće polje
+Name[uk]=Летюче поле
+Name[x-test]=xxFlying Fieldxx
+
+X-KDE-PluginInfo-Name=Flying Field
+X-KDE-PluginInfo-Author=Luiz Bettoni
+X-KDE-PluginInfo-Email=lulis@odois.org
+X-KDE-PluginInfo-License=LGPLv3

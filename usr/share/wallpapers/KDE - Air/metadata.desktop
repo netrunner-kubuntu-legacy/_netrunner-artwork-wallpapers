@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=Air
+Name[ar]=هواء
+Name[ca]=Aire
+Name[de]=Air
+Name[el]=Air
+Name[es]=Aire
+Name[et]=Air
+Name[fa]=هوا
+Name[fi]=Air
+Name[ga]=Air
+Name[hu]=Air
+Name[it]=Aria
+Name[kk]=Әуе
+Name[lt]=Oras
+Name[nds]=Luft
+Name[nl]=Air
+Name[nn]=Luft
+Name[pl]=Powietrze
+Name[pt]=Air
+Name[pt_BR]=Air
+Name[ru]=Air
+Name[sk]=Vzduch
+Name[sl]=Zrak
+Name[sr]=Ваздух
+Name[sr@ijekavian]=Ваздух
+Name[sr@ijekavianlatin]=Vazduh
+Name[sr@latin]=Vazduh
+Name[uk]=Повітря
+Name[x-test]=xxAirxx
+
+X-KDE-PluginInfo-Name=Air
+X-KDE-PluginInfo-Author=Nuno Pinheiro
+X-KDE-PluginInfo-Email=nuno@oxygen-icons.org
+X-KDE-PluginInfo-License=LGPLv3

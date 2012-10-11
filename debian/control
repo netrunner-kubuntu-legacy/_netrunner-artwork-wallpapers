@@ -1,0 +1,11 @@
+Source: netrunner-artwork-backgrounds
+Section: admin
+Priority: optional
+Maintainer: Phoenix <phoenix@netrunner-os.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: netrunner-artwork-backgrounds
+Architecture: all
+Description: Backgrounds for Netrunner
+ Backgrounds for Netrunner
