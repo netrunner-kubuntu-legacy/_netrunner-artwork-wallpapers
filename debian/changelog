@@ -1,3 +1,9 @@
+netrunner-artwork-backgrounds (1.0.6) dryland-te; urgency=low
+
+  * Initial Dryland TE release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 12 Oct 2012 14:04:13 +0200
+
 netrunner-artwork-backgrounds (1.0.5) dryland-se; urgency=low
 
   * Change wallpappers
