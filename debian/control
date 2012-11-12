@@ -1,11 +1,24 @@
-Source: netrunner-artwork-backgrounds
-Section: admin
+Source: netrunner-wallpapers
+Section: kde
 Priority: optional
-Maintainer: Phoenix <phoenix@netrunner-os.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Maintainer: Rohan Garg <rohangarg@kubuntu.org> 
+Build-Depends: 
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12), kdelibs5-dev (>= 4:4.9.0), libssl-dev
+Standards-Version: 3.9.3
+Homepage: http://netrunner-linux.com
 
-Package: netrunner-artwork-backgrounds
+Package: netrunner-kde-wallpapers
 Architecture: all
-Description: Backgrounds for Netrunner
- Backgrounds for Netrunner
+Depends: ${misc:Depends}
+Replaces: kde-wallpapers
+Conflicts: kde-wallpapers
+Description: set of wallpapers for Netrunner
+ This package contains wallpapers from Netrunner.
+ .
+ This package is a subset of kde-wallpapers
+
+Package: netrunner-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: set of wallpapers for Netrunner
+ This package contains wallpapers from Netrunner.

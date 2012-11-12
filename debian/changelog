@@ -1,48 +1,29 @@
-netrunner-artwork-backgrounds (1.0.7) dryland-te; urgency=low
+netrunner-wallpapers (12.12netrunner1~ppa2) quantal; urgency=low
 
-  * Update wallpapers
+  * Fixup CMakeLists.txt
 
- -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 30 Oct 2012 11:13:11 +0100
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 21:12:30 +0000
 
-netrunner-artwork-backgrounds (1.0.6) dryland-te; urgency=low
+netrunner-wallpapers (12.12netrunner1~ppa1) quantal; urgency=low
 
-  * Initial Dryland TE release
+  * New release
 
- -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 12 Oct 2012 14:04:13 +0200
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 19:43:25 +0000
 
-netrunner-artwork-backgrounds (1.0.5) dryland-se; urgency=low
+netrunner-wallpapers (1.1) quantal; urgency=low
 
-  * Change wallpappers
+  * Split source into 2 packages
 
- -- Frederic Gaudet <fred@linuxmint.com>  Mon, 27 Aug 2012 09:02:43 +0200
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 19:43:23 +0000
 
-netrunner-artwork-backgrounds (1.0.4) dryland-se; urgency=low
+netrunner-wallpapers (1) quantal; urgency=low
 
-  * Initial dryland-se release
+  * New wallpaper set specific to Netrunner
 
- -- Fred <fred@linuxmint.com>  Fri, 13 Apr 2012 10:09:34 +0200
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 10 Sep 2012 19:26:37 +0530
 
-netrunner-artwork-backgrounds (1.0.3) dryland; urgency=low
+netrunner-wallpapers (0) quantal; urgency=low
 
-  * Misc Fixes
+  * Initial upload
 
- -- Phoenix <phoenix@netrunner-os.com>  Tue,  22 Dec 2011 16:07:00 +0000
-
-netrunner-artwork-backgrounds (1.0.2) dryland; urgency=low
-
-  * Change wallpapers
-
- -- Phoenix <phoenix@netrunner-os.com>  Tue,  13 Dec 2011 16:35:00 +0000
-
-netrunner-artwork-backgrounds (1.0.1) dryland; urgency=low
-
-  * Add Alternate Dryland picture
-
- -- Phoenix <phoenix@netrunner-os.com>  Tue,  13 Dec 2011 16:35:00 +0000
-
-netrunner-artwork-backgrounds (1.0.0) dryland; urgency=low
-
-  * Initial release
-
- -- Phoenix <phoenix@netrunner-os.com>  Wed,  30 Nov 2011 13:59:00 +0000
-
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 26 Aug 2012 09:50:42 +0530 
