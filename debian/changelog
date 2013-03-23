@@ -1,3 +1,9 @@
+netrunner-artwork-backgrounds (1.0.9) enigma-1306; urgency=low
+
+  * Initial Enigma release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Sat, 23 Mar 2013 09:50:34 +0100
+
 netrunner-artwork-backgrounds (1.0.8) dryland-te; urgency=low
 
   * Update wallpapers
