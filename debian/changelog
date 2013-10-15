@@ -1,3 +1,10 @@
+netrunner-artwork-backgrounds (1.0.18) saucy; urgency=low
+
+  * Bump version number for next Netrunner release
+  * Change distro name to saucy
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 15 Oct 2013 11:50:13 +0200
+
 netrunner-artwork-backgrounds (1.0.17) enigma-1306; urgency=low
 
   * RC2
